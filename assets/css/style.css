@@ -10,5 +10,9 @@ body h1{
     margin: initial;
     background-color: black;
     padding-inline-start: 10000px;
+    block-size: 15rem;
+}
 
+h1 img{
+    
 }
