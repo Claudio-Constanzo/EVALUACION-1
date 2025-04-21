@@ -5,15 +5,26 @@ body{
     
 }
 
+header{
+    background-color: black;
+}
+
 body h1{
     color:white;
     text-align: center 0px;
     margin: initial;
     background-color: black;
-    padding-inline-start: 100px;
-    padding-inline-end: 100px;
     block-size: 15rem;
-    font-size: 100px;
+    font-size: 100px;   
+}
+
+#formulario{
+    font-size: 20px;
+    margin-block: 300px;
+    box-sizing: content-box 100px;
 
 }
 
+img{
+    height: 400px;
+}
