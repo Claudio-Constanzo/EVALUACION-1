@@ -1,17 +1,14 @@
 body{
     text-align: center;
     position: absolute;
+    background-color: white;
     
 }
 
-header{
-    padding: 3rem;
-    border: 3rem;
+body h1{
+    text-align: center;
+    margin: initial;
     background-color: black;
-    margin:auto 300px;
-    size: 3rem;
-}
+    padding-inline-start: 10000px;
 
-header p{
-    color: white;
 }
